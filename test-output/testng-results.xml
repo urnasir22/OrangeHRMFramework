@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-05-14T12:01:14 IST" name="Default suite" finished-at="2026-05-14T12:03:15 IST" duration-ms="121900">
+    <groups>
+    </groups>
+    <test started-at="2026-05-14T12:01:14 IST" name="Default test" finished-at="2026-05-14T12:03:15 IST" duration-ms="121900">
+      <class name="tests.SearchEmployeeUsingAutoSuggestionTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.SearchEmployeeUsingAutoSuggestionTest@7ef82753]" started-at="2026-05-14T12:01:14 IST" name="setup" finished-at="2026-05-14T12:02:29 IST" duration-ms="75242" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="SearchEmployeeUsingAutoSuggestion(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:tests.SearchEmployeeUsingAutoSuggestionTest@7ef82753]" started-at="2026-05-14T12:02:29 IST" name="SearchEmployeeUsingAutoSuggestion" data-provider="empData" finished-at="2026-05-14T12:03:06 IST" duration-ms="37479" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[m]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchEmployeeUsingAutoSuggestion -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.SearchEmployeeUsingAutoSuggestionTest@7ef82753]" started-at="2026-05-14T12:03:06 IST" name="tearDown" finished-at="2026-05-14T12:03:15 IST" duration-ms="9015" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.SearchEmployeeUsingAutoSuggestionTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

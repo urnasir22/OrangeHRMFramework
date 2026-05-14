@@ -1,0 +1,9 @@
+C:\Users\Gulrez\eclipse-workspace\OrangeHRMFramework\src\test\java\base\BaseTest.java
+C:\Users\Gulrez\eclipse-workspace\OrangeHRMFramework\src\test\java\locators\CommonLocators.java
+C:\Users\Gulrez\eclipse-workspace\OrangeHRMFramework\src\test\java\pages\DashboardPage.java
+C:\Users\Gulrez\eclipse-workspace\OrangeHRMFramework\src\test\java\pages\LoginPage.java
+C:\Users\Gulrez\eclipse-workspace\OrangeHRMFramework\src\test\java\pages\PIMPage.java
+C:\Users\Gulrez\eclipse-workspace\OrangeHRMFramework\src\test\java\tests\AddAndVerifyEmployeeTest.java
+C:\Users\Gulrez\eclipse-workspace\OrangeHRMFramework\src\test\java\tests\DeleteAndVerifyEmployeeTest.java
+C:\Users\Gulrez\eclipse-workspace\OrangeHRMFramework\src\test\java\tests\SearchEmployeeUsingAutoSuggestionTest.java
+C:\Users\Gulrez\eclipse-workspace\OrangeHRMFramework\src\test\java\tests\SearchUpdateAndVerifyEmployeeTest.java
